@@ -2,8 +2,7 @@
 
 ![X230T Hackintosh Guide](https://mighil.com/wp-content/uploads/2019/07/thinkpad-x230t-hackintosh.jpg)
 
-Here's a guide to running macOS Mojave 10.14.3 (18G95) on a Thinkpad X230T without any hassle. The base EFI files are from Jack Zhang. I've modded it a bit. And yeah, you can update the device to 10.14.6 after updating Clover. I'll update the EFI files for 10.14.6 in a few days.
-
+Here's a guide to running macOS Mojave 10.14.3 (18G95) on a Thinkpad X230T without any hassle. The base EFI files are from Jack Zhang. I've modded it a bit. And yeah, you can update the device to 10.14.6 after updating Clover. I'll update the EFI files for 10.14.6 in a few days. Maybe I'm lucky, along with the other features, **Facetime and iMessage are working flawlessly** out of the box. In-built WiFi doesn't work.
 
 ## Tweak X230T's BIOS Settings (Do This First)
 
