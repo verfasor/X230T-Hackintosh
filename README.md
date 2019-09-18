@@ -1,4 +1,7 @@
 # X230T Hackintosh
+
+![X230T Hackintosh Guide](https://mighil.com/wp-content/uploads/2019/07/thinkpad-x230t-hackintosh.jpg)
+
 Here's a guide to running macOS Mojave 10.14.3 (18G95) on a Thinkpad X230T without any hassle. The base EFI files are from Jack Zhang. I've modded it a bit. And yeah, you can update the device to 10.14.6 after updating Clover. I'll update the EFI files for 10.14.6 in a few days.
 
 
@@ -21,8 +24,6 @@ Try this method if you own an extra SSD/HDD and a MacBook that supports the late
 3. Fresh install the MacOS that came with your device. Then update it to the latest version of Mojave.
 4. Install [Clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/), mount the partition and replace the native EFI files with the EFI files in this repo.
 5. Take that SSD and install it on a X230T. 
-
-![X230T Hackintosh Guide](https://mighil.com/wp-content/uploads/2019/07/thinkpad-x230t-hackintosh.jpg)
 
 ## My X230 Tablet Specs
 
