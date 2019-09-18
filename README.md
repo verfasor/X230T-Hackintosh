@@ -22,7 +22,7 @@ Try this method if you own an extra SSD/HDD and a MacBook that supports the late
 1. Replace the old SSD/HDD in the MacBook with the new one. Yes, this requires manually removing the old HDD/SSD.
 2. Boot up the MacBook and press Command Btn + R.
 3. Fresh install the MacOS that came with your device. Then update it to the latest version of Mojave.
-4. Install [Clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/), mount the partition and replace the native EFI files with the EFI files in this repo.
+4. Install [Clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/), mount the partition and replace the native EFI files with the respective EFI files in this repo.
 5. Take that SSD and install it on a X230T. 
 
 ## My X230 Tablet Specs
