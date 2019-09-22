@@ -38,7 +38,7 @@ Try this method if you own an extra SSD/HDD and a MacBook that supports the late
 * Inbuilt WiFi, you can hack BIOS and install a Mac-compatible WiFi card. I highly recommend a external device like Comfast CF-811AC
 * Fingerprint reader
 
-## Before You Install Mojave 10.14.6
+## Before You Install Mojave 10.14.3
 
 Kindly note that WiFi won’t work after installing Mojave. Ethernet LAN will work.
 
