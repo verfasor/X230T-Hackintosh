@@ -1,3 +1,7 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
+
+**DISCLAIMER: YOU'RE NOTHING BUT AN A-HOLE IF YOU SELL EFI FOLDER (CONFIG) THAT'S ALREADY AVAILABLE FOR FREE OF COST. DON'T DO THAT.**
+
 # X230T Hackintosh
 
 ![X230T Hackintosh Guide](https://mighil.com/wp-content/uploads/2019/07/thinkpad-x230t-hackintosh.jpg)
