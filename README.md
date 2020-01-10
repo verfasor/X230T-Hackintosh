@@ -1,6 +1,8 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
+**UPDATE: [Star my X230-Hackintosh](https://github.com/mighildotcom/X230-Hackintosh) repo for latest updates. I no longer maintain this one. X230 guides are applicable for X230t also.**
 
-**DISCLAIMER: YOU'RE NOTHING BUT AN A-HOLE IF YOU SELL EFI FOLDER (CONFIG) THAT'S ALREADY AVAILABLE FOR FREE OF COST. DON'T DO THAT.**
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E6%94%AF%E4%BB%98%E5%AE%9D-blue)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E5%BE%AE%E4%BF%A1-green)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
+
+**Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
 # X230T Hackintosh
 
@@ -77,3 +79,6 @@ So, be prepared if you just own one machine for the whole process. I highly reco
 13. Download Clover Configurator and refer to 6:32 of [this video](https://youtu.be/u15vmZ9obJY?t=391).
 
 14. You may use [Karabiner-Elements](https://pqrs.org/osx/karabiner/) if the keyboard mappings (command and option) are acting up.
+
+### Support
+![Donate](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
