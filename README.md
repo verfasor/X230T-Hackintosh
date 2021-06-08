@@ -72,7 +72,7 @@ So, be prepared if you just own one machine for the whole process. I highly reco
 
 10. Plug the USB drive into the X230T and boot from USB.
 
-11. Format the disk drive to APFS, install macOS Mojave, and restart the system.
+11. Format the disk drive to APFS, install macOS Mojave, and restart the system. [If you got this error message:"Install MacOS Application is Damaged, Can’t be Used to Install MacOS” error message", refer this link](https://osxdaily.com/2019/10/24/fix-install-macos-application-damaged-cant-be-used-error-mac/), if you got "the recovery server could not be contacted" message, please connect to internet.
 
 12. Connect Hackintosh system to the Internet via LAN cable or a Mac-compatible external WiFi adapter.
 
